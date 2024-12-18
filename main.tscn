@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://gglt7uvw8k67"]
+
+[ext_resource type="PackedScene" uid="uid://crgqo4mht0gs" path="res://Assets/Car/car.glb" id="1_jvkrl"]
+
+[node name="Main" type="Node"]
+
+[node name="Sketchfab_Scene" parent="." instance=ExtResource("1_jvkrl")]

@@ -1,0 +1,128 @@
+[gd_scene load_steps=2 format=3 uid="uid://d08hi5wiln2p0"]
+
+[ext_resource type="PackedScene" uid="uid://crgqo4mht0gs" path="res://Assets/Car/car.glb" id="1_efhqu"]
+
+[node name="Car" instance=ExtResource("1_efhqu")]
+
+[node name="Object_7" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_8" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="1"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_9" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="2"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_11" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="3"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_12" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="4"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_13" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="5"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_14" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="6"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_15" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="7"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_16" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="8"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_17" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="9"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_19" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="10"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_21" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="11"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_22" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="12"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_24" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="13"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_29" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="14"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, -1.24566)
+
+[node name="Object_30" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="15"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, -1.24566)
+
+[node name="Object_31" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="16"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, -1.24566)
+
+[node name="Object_32" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="17"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, -1.24566)
+
+[node name="Object_35" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="18"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, -1.24566)
+
+[node name="Object_36" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="19"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, -1.24566)
+
+[node name="Object_37" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="20"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, -1.24566)
+
+[node name="Object_38" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="21"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, -1.24566)
+
+[node name="Object_41" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="22"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, 1.27327)
+
+[node name="Object_42" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="23"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, 1.27327)
+
+[node name="Object_43" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="24"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, 1.27327)
+
+[node name="Object_44" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="25"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, 1.27327)
+
+[node name="Object_47" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="26"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, 1.27327)
+
+[node name="Object_48" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="27"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, 1.27327)
+
+[node name="Object_49" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="28"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, 1.27327)
+
+[node name="Object_50" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="29"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, 1.27327)
+
+[node name="Object_52" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="30"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_53" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="31"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_54" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="32"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0, 0, 0)
+
+[node name="Object_57" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="33"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, -1.24566)
+
+[node name="Object_59" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="34"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, -1.24566)
+
+[node name="Object_62" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="35"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, -1.24566)
+
+[node name="Object_64" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="36"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, -1.24566)
+
+[node name="Object_67" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="37"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, 1.27327)
+
+[node name="Object_69" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="38"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, -0.624755, 0.320254, 1.27327)
+
+[node name="Object_72" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="39"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, 1.27327)
+
+[node name="Object_74" parent="Sketchfab_model/root/GLTF_SceneRootNode/GLTF_created_0/Skeleton3D" index="40"]
+transform = Transform3D(1, 0, 0, 0, 1, 4.37114e-08, 0, -4.37114e-08, 1, 0.624755, 0.320254, 1.27327)
